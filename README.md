@@ -5,7 +5,7 @@ Welcome to my personal GitHub profile! Here you'll find my projects, experiments
 
 ## About Me
 - 🧑‍💻 I’m currently working on [Your Project]
-- 📚 I'm studying [Your Major] at [Your College]
+- 📚 I'm studying Electrical and Computer Engineering at Virginia Commonwealth University 
 - 🌱 I’m learning [What you're learning]
 - 💬 Ask me about [Your Interests/Skills]
 - 📫 How to reach me: [Your Email/LinkedIn/Twitter]
