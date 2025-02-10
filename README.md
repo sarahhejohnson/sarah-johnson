@@ -4,15 +4,13 @@
 Welcome to my personal GitHub profile! Here you'll find my projects, experiments, and contributions.
 
 ## About Me
-- 🧑‍💻 I’m currently working on [Your Project]
-- 📚 I'm studying Electrical and Computer Engineering at Virginia Commonwealth University 
+- 🎓 I'm currently studying Electrical and Computer Engineering at Virginia Commonwealth University
+- 💻 Passionate about programming, AI, and data science
 - 🌱 I’m learning [What you're learning]
 - 💬 Ask me about [Your Interests/Skills]
+- 🌍 Currently working on expanding my knowledge in [Specific Area of Interest]
 - 📫 How to reach me: https://www.linkedin.com/in/sarahejohnson23/
-## 🎓 Education
-- **University Name**: Virginia Commonwealth University
-- **Degree**: [Your Degree]
-- **Year**: [Year of Graduation]
+
   
 ## Projects
 - [Project 1](link) - Description of project
