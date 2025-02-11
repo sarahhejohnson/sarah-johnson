@@ -3,7 +3,7 @@
 Welcome to my personal GitHub profile! Here you'll find my projects, experiments, and contributions.
 
 ## About Me
-- 🧑‍💻 I’m currently working on Wearable Antennas for Biomedical Applications
+- 🧑‍💻 I’m currently working on Printed Antennas for Wearable Applications
 - 📚 I'm studying Electrical and Computer Engineering at Virginia Commonwealth University 
 - 💻 Passionate about medical devices, wearables, and AI
 - 💬 Ask me about biomedical electronics, RF systems, antenna design, and wearable technology
