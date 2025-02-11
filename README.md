@@ -3,17 +3,13 @@
 Welcome to my personal GitHub profile! Here you'll find my projects, experiments, and contributions.
 
 ## About Me
-- 🎓 I'm currently studying Electrical and Computer Engineering at Virginia Commonwealth University
-- 💻 Passionate about programming, AI, and data science
-- 🌱 I’m learning [What you're learning]
-- 💬 Ask me about [Your Interests/Skills]
-- 🌍 Currently working on expanding my knowledge in [Specific Area of Interest]
+- 🧑‍💻 I’m currently working on Wearable Antennas for Biomedical Applications
+- 📚 I'm studying Electrical and Computer Engineering at Virginia Commonwealth University 
+- 💻 Passionate about medical devices, wearables, and AI
+- 💬 Ask me about biomedical electronics, RF systems, antenna design, and wearable technology
+- 🌍 Currently working on expanding my knowledge in Human Body Interactions with Electromagnetics
 - 📫 How to reach me: https://www.linkedin.com/in/sarahejohnson23/
 
-  
-## Projects
-- [Project 1](link) - Description of project
-- [Project 2](link) - Description of project
 
 ---
 
